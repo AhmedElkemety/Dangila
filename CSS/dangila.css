@@ -215,7 +215,7 @@ header .container img {
     font-size: 12px;
   }
   header .container .left .botton {
-    width: 200px;
+    width: 220px;
   }
 }
 /* end resposive */
@@ -547,14 +547,14 @@ header .container img {
     font-size: 12px;
   }
   .section6 .container .right form {
-    width: 330px;
+    width: 340px;
     height: 50px;
   }
   .section6 .container .right form input:first-child {
     width: 225px;
   }
   .section6 .container .right form input:last-child {
-    width: 80px;
+    width: 95px;
     height: 40px;
     font-size: 10px;
   }
